@@ -37,7 +37,7 @@ docker run -d \
 ### 一键脚本安装
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/sky22333/hubproxy/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/LevineWoo/hubproxy/main/install.sh | sudo bash
 ```
 
 也可以直接下载二进制文件执行`./hubproxy`使用，无需配置文件即可启动，内置默认配置，支持所有功能。初始内存占用约18M，二进制文件大小约12M
